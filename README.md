@@ -7,7 +7,7 @@
 Software Based
 
   - [Reformatting External Drive](https://github.com/wfjc/External-Drive-Reformatting)
-  - [Windows User & Group Management Project](https://github.com/wfjc/External-Drive-Reformatting)
+  - [Windows User & Group Management Project](https://github.com/wfjc/Windows-User-Group-Management-Project)
 
 Hardware Based
 - <b>[Troubleshooting and fixing of old laptop: Overheating and sluggish performance](https://github.com/wfjc/Reapplication-of-thermal-paste-and-cleaning-of-fan/blob/main/README.md)
