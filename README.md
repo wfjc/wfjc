@@ -2,17 +2,22 @@
 
 
 
-<h2>👨‍💻 Basic IT Technician Projects:</h2>
+<h2>👨‍💻 IT Technician Projects:</h2>
 
-Software Based
+Local PC Managing and Troubleshooting
 
   - [Reformatting External Drive](https://github.com/wfjc/External-Drive-Reformatting)
   - [Windows User & Group Management Project](https://github.com/wfjc/Windows-User-Group-Management-Project)
-  - [Windows-11-Troubleshooting-Slow-Performance-and-Login-Problem](https://github.com/wfjc/Windows-11-Troubleshooting-Slow-Performance-and-Login-Problem-/tree/main)
-  - [Virtual-SOHO-Router-Mini-Lab-UTM-Windows-11-and Linux Ubuntu](https://github.com/wfjc/Virtual-SOHO-Router-Mini-Lab-UTM-Windows-11-/tree/main)
+  - [Windows 11 Troubleshooting: Slow Performance and Login Problem!](https://github.com/wfjc/Windows-11-Troubleshooting-Slow-Performance-and-Login-Problem-/tree/main)
+
+Networking
+  - [Virtual SOHO Router Managing in Windows 11 and Linux Ubuntu](https://github.com/wfjc/Virtual-SOHO-Router-Mini-Lab-UTM-Windows-11-/tree/main)
+  - [Real SOHO Router Configuration and Network-Administration Linksys Mesh Wifi](https://github.com/wfjc/SOHO-Router-Configuration-Network-Administration-Linksys-Mesh-System-/blob/main/README.md)
+
 
 Hardware Based
-- <b>[Troubleshooting and fixing of old laptop: Overheating and sluggish performance](https://github.com/wfjc/Reapplication-of-thermal-paste-and-cleaning-of-fan/blob/main/README.md)
+- <b>[Troubleshooting and fixing of Envy m6 Laptop: Overheating and Sluggish Performance](https://github.com/wfjc/Reapplication-of-thermal-paste-and-cleaning-of-fan/blob/main/README.md)
+
 
  <h2> Certification </h2>
 
